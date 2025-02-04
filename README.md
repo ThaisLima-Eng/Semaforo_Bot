@@ -8,7 +8,7 @@ seguintes componentes (simulação sugerida presente na
 Figura 2):
 1) Microcontrolador Raspberry Pi Pico W.
 2) 03 LEDs (azul, vermelho e verde).
-3) 03 Resistores de 330 Ω.
+3) 03 Resistores de 330 Ω. 
 4) Botão (Pushbutton).
 
 ![alt text](image-2.png)  
